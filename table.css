@@ -1,0 +1,66 @@
+.imagecontainer{
+    background: url(back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 95%;
+    height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 1.4rem;
+    margin: -10px;
+}
+
+.p{
+    color: white;
+    font-size: 0.8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin-left: 270px;
+    margin-right: 270px;
+    text-align: center;
+    line-height: 20px;
+    margin-top: -20px; 
+}
+.table{
+    color: white;
+    font-size: 1.1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 200px;
+    text-align: center;
+}
+.head1{
+    background-color: rgb(238, 101, 131);
+    padding: 15px 100px;
+}
+.head2{
+    background-color: rgb(243, 54, 95);
+    padding: 15px 100px;
+}
+.head3{
+    background-color: rgb(245, 0, 53);
+    padding: 15px 100px;
+}
+.body1{
+    background-color: rgb(63, 61, 61);
+    padding: 15px 100px;
+}
+.body2{
+    background-color: rgb(41, 40, 40);
+    padding: 15px 100px;
+}
+.p2{
+    color: white;
+    font-size: 0.9rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 570px;
+    margin-top: 20px;
+    text-decoration: underline;
+}
